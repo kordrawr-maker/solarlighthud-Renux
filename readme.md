@@ -1,7 +1,7 @@
-# SolarLightHUD REDUX
+# SolarLightHUD RENUX
 <img width="2560" height="1280" alt="thumbnail" src="https://github.com/user-attachments/assets/fee65220-2855-477d-b247-6e95168fb799" />
 
-A heavily modified version of the old SolarLightHUD from 2018, with tons of new HUD elements, fonts, colors, images, features and settings.
+A modified version of SolarLightHUD-Redux with a linux port. :)
 
 > [!WARNING]
 > # Since this is a fork and I’m a BUM, this won’t really be actively maintained or updated with Redux. I will only update this project if it’s absolutely necessary to fix something game-breaking or to add a critically important feature.

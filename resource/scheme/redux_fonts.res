@@ -7,7 +7,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -24,7 +25,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -33,7 +35,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -42,7 +45,8 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -50,14 +54,16 @@ Scheme
 			"6"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -69,7 +75,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"500"
 				"underline" "1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -77,7 +84,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -87,7 +95,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -95,7 +104,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -103,7 +113,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -112,7 +123,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
@@ -121,7 +133,8 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"antialias"	"1"
@@ -129,7 +142,8 @@ Scheme
 			"6"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
 			}
@@ -141,7 +155,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -149,7 +164,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -157,7 +173,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -166,7 +183,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -175,7 +193,8 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -186,7 +205,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -194,7 +214,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"21"
+				"tall"		"21"	[$WIN32]
+				"tall"		"18"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
@@ -202,7 +223,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
@@ -211,7 +233,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
@@ -220,7 +243,8 @@ Scheme
 			"5" // Misyl: Proportional
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -228,14 +252,16 @@ Scheme
 			"6"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -245,7 +271,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"0"
 				"antialias"	"1"
 			}
@@ -256,7 +283,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"6"
+				"tall"		"6"	[$WIN32]
+				"tall"		"5"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -267,7 +295,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"700"
 				"yres"	"480 599"
 			}
@@ -282,21 +311,24 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5" // Misyl: Proportional
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"700"
 				"antialias"	"1"
 			}
@@ -306,7 +338,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"tall_lodef"	"80"
 				"weight"	"500"
 				"additive"	"0"
@@ -316,7 +349,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"tall_hidef"	"120"
 				"weight"	"500"
 				"additive"	"0"
@@ -326,7 +360,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -335,7 +370,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -344,7 +380,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -355,7 +392,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -368,7 +406,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"35"
+				"tall"		"35"	[$WIN32]
+				"tall"		"30"	[$LINUX]
 				"tall_lodef"	"40"
 				"weight"	"500"
 				"additive"	"0"
@@ -381,7 +420,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"tall_hidef"	"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -393,7 +433,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"30"
+				"tall"		"30"	[$WIN32]
+				"tall"		"26"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -404,7 +445,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"30"
+				"tall"		"30"	[$WIN32]
+				"tall"		"26"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -415,7 +457,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"tall_lodef"		"28"
 				"weight"	"500"
 				"additive"	"0"
@@ -427,7 +470,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"500"
 				"yres"		"1 1199"
 				"additive"	"0"
@@ -436,7 +480,8 @@ Scheme
 			"2" // Misyl: Proportional
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -447,7 +492,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -458,7 +504,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -469,7 +516,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"	"500"
@@ -482,7 +530,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
 				"weight"	"500"
@@ -495,7 +544,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"tall_lodef"	"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -507,7 +557,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -518,7 +569,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -529,7 +581,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -541,7 +594,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -552,7 +606,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -564,7 +619,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -575,7 +631,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -586,7 +643,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -597,7 +655,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -608,7 +667,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -619,7 +679,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -630,7 +691,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"6"
+				"tall"		"6"	[$WIN32]
+				"tall"		"5"	[$LINUX]
 				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -641,7 +703,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
 				"weight"	"400"
@@ -654,7 +717,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -729,7 +793,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"	"500"
@@ -742,7 +807,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
 				"weight"	"500"
@@ -755,7 +821,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -766,7 +833,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -777,7 +845,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
 				"weight"	"500"
@@ -790,7 +859,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"tall_hidef"	"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -802,7 +872,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"15"
+				"tall"		"15"	[$WIN32]
+				"tall"		"13"	[$LINUX]
 				"weight"	"700"
 				"antialias" 	"1"
 				"yres"		"1 599"
@@ -823,7 +894,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"900"
 				"antialias" 	"1"
 				"yres"		"768 1023"
@@ -832,7 +904,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"21"
+				"tall"		"21"	[$WIN32]
+				"tall"		"18"	[$LINUX]
 				"weight"	"900"
 				"antialias" 	"1"
 				"yres"		"1024 1199"
@@ -841,7 +914,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"1000"
 				"antialias" 	"1"
 				"yres"		"1200 10000"
@@ -853,7 +927,8 @@ Scheme
 			"1"	[$WIN32]
 			{
 				"name"		"Courier New"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"outline"	"1"
 				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -861,7 +936,8 @@ Scheme
 			"1"	[$X360]
 			{
 				"name"		"Tahoma"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"200"
 				"outline"	"1"
 			}
@@ -871,7 +947,8 @@ Scheme
 			"1"
 			{
 				"name"  	"tfd" // tfd.ttf
-				"tall"  	"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"weight" 	"0"
 				"additive" 	"0"
 				"antialias" 	"1"
@@ -883,7 +960,8 @@ Scheme
 			"1"
 			 {
 				"name"  	"Team Fortress" // tf.ttf
-				"tall"  	"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"weight" 	"0"
 				"additive" 	"1"
 				"antialias" 	"1"
@@ -894,7 +972,8 @@ Scheme
 			"1"
 			{
 				"name"		"Courier New"
-				"tall"		"90"
+				"tall"		"90"	[$WIN32]
+				"tall"		"76"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -907,7 +986,8 @@ Scheme
 			"1"
 			{
 				"name"  "Team Fortress" // tf.ttf
-				"tall"  "28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"weight" "0"
 				"additive" "1"
 				"antialias" "1"
@@ -915,7 +995,8 @@ Scheme
 			"2"
 			{
 				"name"  "futurano2d_demibold"
-				"tall"  "28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"weight" "0"
 				"additive" "1"
 				"antialias" "1"
@@ -926,7 +1007,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -936,7 +1018,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"500"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -947,7 +1030,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -957,7 +1041,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"900"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -968,7 +1053,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -980,7 +1066,8 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -991,7 +1078,8 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1002,7 +1090,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1012,7 +1101,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"tall_lodef"	"14"
 				"antialias" "1"
 				"weight"	"500"
@@ -1023,7 +1113,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1034,7 +1125,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
 				"weight"	"800"
@@ -1048,7 +1140,8 @@ Scheme
 			"1"
 			{
 				"name"			"TF2 Professor"
-				"tall"			"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
 				"antialias"		"1"
@@ -1063,7 +1156,8 @@ Scheme
 			"1"
 			{
 				"name"			"TF2 Professor"
-				"tall"			"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
 				"antialias"		"1"
@@ -1078,7 +1172,8 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Professor"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
 				"antialias" "1"
@@ -1105,7 +1200,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"6"
+				"tall"		"6"	[$WIN32]
+				"tall"		"5"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1116,7 +1212,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
 				"weight"	"400"
@@ -1129,7 +1226,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
 				"weight"	"400"
@@ -1142,7 +1240,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1154,7 +1253,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1166,7 +1266,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -1180,7 +1281,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1192,7 +1294,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1204,7 +1307,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"34"
+				"tall"		"34"	[$WIN32]
+				"tall"		"29"	[$LINUX]
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
 				"weight"	"500"
@@ -1219,7 +1323,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"tall_hidef"	"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -1231,7 +1336,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1241,7 +1347,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1251,7 +1358,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"768 1023"
@@ -1260,7 +1368,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"140"
+				"tall"		"140"	[$WIN32]
+				"tall"		"119"	[$LINUX]
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"1024 1199"
@@ -1269,7 +1378,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"180"
+				"tall"		"180"	[$WIN32]
+				"tall"		"153"	[$LINUX]
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"1200 10000"
@@ -1281,7 +1391,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1293,7 +1404,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1304,7 +1416,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1315,7 +1428,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1326,7 +1440,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1337,7 +1452,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1349,7 +1465,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
 				"weight"	"400"
@@ -1363,7 +1480,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"0"
@@ -1371,7 +1489,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"0"
@@ -1379,7 +1498,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"0"
@@ -1387,7 +1507,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"0"
@@ -1395,7 +1516,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"0"
@@ -1406,7 +1528,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1414,7 +1537,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1422,7 +1546,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -1430,7 +1555,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -1438,7 +1564,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
@@ -1449,7 +1576,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1457,7 +1585,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1465,7 +1594,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -1473,7 +1603,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -1481,7 +1612,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"15"
+				"tall"		"15"	[$WIN32]
+				"tall"		"13"	[$LINUX]
 				"weight"	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
@@ -1493,7 +1625,8 @@ Scheme
 			"1"
 			{
 				"name"			"Arial Black"
-				"tall"			"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -1506,7 +1639,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -1519,7 +1653,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
@@ -1531,7 +1666,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
@@ -1544,7 +1680,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
 				"weight"	"0"
@@ -1557,7 +1694,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
 				"weight"	"400"
@@ -1584,7 +1722,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"tall_lodef"		"28"
 				"weight"	"500"
 			}
@@ -1594,7 +1733,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"30"
+				"tall"		"30"	[$WIN32]
+				"tall"		"26"	[$LINUX]
 				"tall_lodef"		"22"
 				"weight"	"500"
 			}
@@ -1604,7 +1744,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"tall_lodef"	"24"
 				"weight"	"500"
 			}
@@ -1614,7 +1755,8 @@ Scheme
 			"1"			// brower item hostname
 			{
 				"name"		"Trebuchet MS"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"900"
 			}
 		}
@@ -1623,7 +1765,8 @@ Scheme
 			"1"			// browser item players and map name
 			{
 				"name"		"Trebuchet MS"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"900"
 			}
 		}
@@ -1632,7 +1775,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"500"
 			}
 		}
@@ -1641,7 +1785,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"500"
 			}
 		}
@@ -1650,7 +1795,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"tall_lodef"		"18"
 				"weight"	"900"
 			}
@@ -1660,7 +1806,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_lodef"		"18"
 				"weight"	"900"
 			}
@@ -1670,7 +1817,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"15"
+				"tall"		"15"	[$WIN32]
+				"tall"		"13"	[$LINUX]
 				"weight"	"900"
 			}
 		}
@@ -1680,7 +1828,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1691,7 +1840,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1702,7 +1852,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1713,7 +1864,8 @@ Scheme
 			"1"
 			{
 				"name"		"Trebuchet MS"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"900"
 				"antialias" "1"
 			}
@@ -1723,7 +1875,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1734,7 +1887,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1745,7 +1899,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1758,7 +1913,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -1767,7 +1923,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 1199"
@@ -1776,7 +1933,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"15"
+				"tall"		"15"	[$WIN32]
+				"tall"		"13"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
@@ -1789,7 +1947,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1800,7 +1959,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1811,7 +1971,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1822,7 +1983,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1833,7 +1995,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1844,7 +2007,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1854,7 +2018,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1865,7 +2030,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1876,7 +2042,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1888,7 +2055,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1899,7 +2067,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"500"
 				"blur"		"3"
 				"additive"	"1"
@@ -1911,7 +2080,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -1922,7 +2092,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -1933,7 +2104,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -1943,7 +2115,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -1955,7 +2128,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -1966,7 +2140,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -1975,7 +2150,8 @@ Scheme
 			"2"
 			{
 				"name"		"ocra"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -1984,7 +2160,8 @@ Scheme
 			"3"
 			{
 				"name"		"ocra"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -1997,7 +2174,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"800"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2006,7 +2184,8 @@ Scheme
 			"2"
 			{
 				"name"		"ocra"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"800"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2015,7 +2194,8 @@ Scheme
 			"3"
 			{
 				"name"		"ocra"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"800"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2028,7 +2208,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2040,7 +2221,8 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Professor"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" "1"
 				"custom"		"1" [$OSX]
 				"weight"	"500"
@@ -2052,7 +2234,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2061,7 +2244,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2070,7 +2254,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2083,7 +2268,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2093,7 +2279,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2103,7 +2290,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2117,7 +2305,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"800"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2126,7 +2315,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"800"
 				"additive"	"0"
 				"yres"		"600 1023"
@@ -2135,7 +2325,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"800"
 				"additive"	"0"
 				"yres"		"1024 6000"
@@ -2148,7 +2339,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2160,7 +2352,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2172,7 +2365,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2184,7 +2378,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2195,7 +2390,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2206,7 +2402,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2218,7 +2415,8 @@ Scheme
 			"1"
 			{
 				"name"		"Trebuchet MS"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2234,7 +2432,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -2242,7 +2441,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -2250,7 +2450,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -2259,7 +2460,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -2268,7 +2470,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -2280,7 +2483,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2291,7 +2495,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -2299,7 +2504,8 @@ Scheme
 			"2"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"13"
+				"tall"		"13"	[$WIN32]
+				"tall"		"11"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -2307,7 +2513,8 @@ Scheme
 			"3"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -2316,7 +2523,8 @@ Scheme
 			"4"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
@@ -2325,7 +2533,8 @@ Scheme
 			"5"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"22"
+				"tall"		"22"	[$WIN32]
+				"tall"		"19"	[$LINUX]
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
@@ -2334,7 +2543,8 @@ Scheme
 			"6"
 			{
 				"name"		"Arial"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
 			}
@@ -2344,7 +2554,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2355,7 +2566,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2366,7 +2578,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
 				"weight"	"500"
@@ -2379,7 +2592,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2390,7 +2604,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
 				"weight"	"500"
@@ -2407,7 +2622,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2418,7 +2634,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2430,7 +2647,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"15"
+				"tall"		"15"	[$WIN32]
+				"tall"		"13"	[$LINUX]
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -2443,7 +2661,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"9"
+				"tall"		"9"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2455,7 +2674,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"antialias" 	"1"
 			}
@@ -2466,7 +2686,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"11"
+				"tall"		"11"	[$WIN32]
+				"tall"		"9"	[$LINUX]
 				"weight"	"500"
 				"blur"		"3"
 				"additive"	"1"
@@ -2479,7 +2700,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2492,7 +2714,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -2505,7 +2728,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"7"
+				"tall"		"7"	[$WIN32]
+				"tall"		"6"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2517,7 +2741,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2529,7 +2754,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"14"
+				"tall"		"14"	[$WIN32]
+				"tall"		"12"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2541,7 +2767,8 @@ Scheme
 			"1"
 			{
 				"name"		"ocra"
-				"tall"		"30"
+				"tall"		"30"	[$WIN32]
+				"tall"		"26"	[$LINUX]
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2558,7 +2785,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extremestroke_italic"
-				"tall"		"18"
+				"tall"		"18"	[$WIN32]
+				"tall"		"15"	[$LINUX]
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2570,7 +2798,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"50"
+				"tall"		"50"	[$WIN32]
+				"tall"		"42"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2582,7 +2811,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2592,7 +2822,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2602,7 +2833,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2612,7 +2844,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2622,7 +2855,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2632,7 +2866,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2642,7 +2877,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2652,7 +2888,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2662,7 +2899,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2672,7 +2910,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2682,7 +2921,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2692,7 +2932,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2704,7 +2945,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2714,7 +2956,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2724,7 +2967,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2733,7 +2977,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2742,7 +2987,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2751,7 +2997,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2761,7 +3008,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2771,7 +3019,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2781,7 +3030,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2791,7 +3041,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2801,7 +3052,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2811,7 +3063,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2821,7 +3074,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2831,7 +3085,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2841,7 +3096,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2853,7 +3109,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"300"
+				"tall"		"300"	[$WIN32]
+				"tall"		"255"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2863,7 +3120,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2873,7 +3131,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2883,7 +3142,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2893,7 +3153,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2903,7 +3164,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2913,7 +3175,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2923,7 +3186,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2933,7 +3197,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2943,7 +3208,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2953,7 +3219,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2963,7 +3230,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extrablack"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2973,7 +3241,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke3"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2983,7 +3252,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -2993,7 +3263,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurabt_extremestroke"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3003,7 +3274,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold_dmg"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3013,7 +3285,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic_dmg"
-				"tall"		"30"
+				"tall"		"30"	[$WIN32]
+				"tall"		"26"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3023,7 +3296,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3033,7 +3307,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"6"
+				"tall"		"6"	[$WIN32]
+				"tall"		"5"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3043,7 +3318,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3053,7 +3329,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3063,7 +3340,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3073,7 +3351,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3083,7 +3362,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3093,7 +3373,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3103,7 +3384,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3113,7 +3395,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3123,7 +3406,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3133,7 +3417,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3143,7 +3428,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3153,7 +3439,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3163,7 +3450,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3173,7 +3461,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3183,7 +3472,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3193,7 +3483,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3203,7 +3494,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3213,7 +3505,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3223,7 +3516,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3233,7 +3527,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3243,7 +3538,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3253,7 +3549,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3263,7 +3560,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3273,7 +3571,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3283,7 +3582,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3293,7 +3593,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3303,7 +3604,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3313,7 +3615,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3323,7 +3626,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3333,7 +3637,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3343,7 +3648,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3353,7 +3659,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3363,7 +3670,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3373,7 +3681,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3383,7 +3692,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3393,7 +3703,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3403,7 +3714,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3413,7 +3725,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3423,7 +3736,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3433,7 +3747,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3443,7 +3758,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3453,7 +3769,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3463,7 +3780,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3473,7 +3791,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3483,7 +3802,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3493,7 +3813,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3503,7 +3824,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3513,7 +3835,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3523,7 +3846,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3533,7 +3857,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3543,7 +3868,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3553,7 +3879,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3563,7 +3890,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"10"
+				"tall"		"10"	[$WIN32]
+				"tall"		"8"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3573,7 +3901,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3583,7 +3912,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3593,7 +3923,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3603,7 +3934,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3613,7 +3945,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3623,7 +3956,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3633,7 +3967,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3643,7 +3978,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3653,7 +3989,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3663,7 +4000,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3673,7 +4011,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3683,7 +4022,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3693,7 +4033,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3703,7 +4044,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3713,7 +4055,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3723,7 +4066,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3733,7 +4077,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3743,7 +4088,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3753,7 +4099,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3763,7 +4110,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3773,7 +4121,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3783,7 +4132,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3793,7 +4143,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 			}
 		}
@@ -3805,7 +4156,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3816,7 +4168,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3827,7 +4180,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3838,7 +4192,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3849,7 +4204,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3860,7 +4216,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3871,7 +4228,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3882,7 +4240,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3893,7 +4252,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3904,7 +4264,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3915,7 +4276,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3926,7 +4288,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3937,7 +4300,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3948,7 +4312,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3959,7 +4324,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3970,7 +4336,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3981,7 +4348,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -3992,7 +4360,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4003,7 +4372,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4014,7 +4384,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4025,7 +4396,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4036,7 +4408,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4047,7 +4420,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4058,7 +4432,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4069,7 +4444,8 @@ Scheme
 			"1"
 			{
 				"name"		"futurano2d_demibold"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4080,7 +4456,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4091,7 +4468,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4102,7 +4480,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4113,7 +4492,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4124,7 +4504,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4135,7 +4516,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4146,7 +4528,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4157,7 +4540,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4168,7 +4552,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4179,7 +4564,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4190,7 +4576,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4201,7 +4588,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4212,7 +4600,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4223,7 +4612,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4234,7 +4624,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4245,7 +4636,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4256,7 +4648,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4267,7 +4660,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4278,7 +4672,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4289,7 +4684,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4300,7 +4696,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4311,7 +4708,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4322,7 +4720,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4333,7 +4732,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4344,7 +4744,8 @@ Scheme
 			"1"
 			{
 				"name"		"futura_extra_black_italic"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4355,7 +4756,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"4"
+				"tall"		"4"	[$WIN32]
+				"tall"		"3"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4366,7 +4768,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"8"
+				"tall"		"8"	[$WIN32]
+				"tall"		"7"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4377,7 +4780,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"12"
+				"tall"		"12"	[$WIN32]
+				"tall"		"10"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4388,7 +4792,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"16"
+				"tall"		"16"	[$WIN32]
+				"tall"		"14"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4399,7 +4804,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"20"
+				"tall"		"20"	[$WIN32]
+				"tall"		"17"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4410,7 +4816,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"24"
+				"tall"		"24"	[$WIN32]
+				"tall"		"20"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4421,7 +4828,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"28"
+				"tall"		"28"	[$WIN32]
+				"tall"		"24"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4432,7 +4840,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"32"
+				"tall"		"32"	[$WIN32]
+				"tall"		"27"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4443,7 +4852,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"36"
+				"tall"		"36"	[$WIN32]
+				"tall"		"31"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4454,7 +4864,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"40"
+				"tall"		"40"	[$WIN32]
+				"tall"		"34"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4465,7 +4876,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"44"
+				"tall"		"44"	[$WIN32]
+				"tall"		"37"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4476,7 +4888,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"48"
+				"tall"		"48"	[$WIN32]
+				"tall"		"41"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4487,7 +4900,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"52"
+				"tall"		"52"	[$WIN32]
+				"tall"		"44"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4498,7 +4912,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"56"
+				"tall"		"56"	[$WIN32]
+				"tall"		"48"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4509,7 +4924,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"60"
+				"tall"		"60"	[$WIN32]
+				"tall"		"51"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4520,7 +4936,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"64"
+				"tall"		"64"	[$WIN32]
+				"tall"		"54"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4531,7 +4948,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"68"
+				"tall"		"68"	[$WIN32]
+				"tall"		"58"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4542,7 +4960,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"72"
+				"tall"		"72"	[$WIN32]
+				"tall"		"61"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4553,7 +4972,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"76"
+				"tall"		"76"	[$WIN32]
+				"tall"		"65"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4564,7 +4984,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"80"
+				"tall"		"80"	[$WIN32]
+				"tall"		"68"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4575,7 +4996,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"84"
+				"tall"		"84"	[$WIN32]
+				"tall"		"71"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4586,7 +5008,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"88"
+				"tall"		"88"	[$WIN32]
+				"tall"		"75"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4597,7 +5020,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"92"
+				"tall"		"92"	[$WIN32]
+				"tall"		"78"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4608,7 +5032,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"96"
+				"tall"		"96"	[$WIN32]
+				"tall"		"82"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
@@ -4619,7 +5044,8 @@ Scheme
 			"1"
 			{
 				"name"		"asimov"
-				"tall"		"100"
+				"tall"		"100"	[$WIN32]
+				"tall"		"85"	[$LINUX]
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}

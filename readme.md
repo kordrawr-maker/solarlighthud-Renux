@@ -4,8 +4,9 @@
 A heavily modified version of the old SolarLightHUD from 2018, with tons of new HUD elements, fonts, colors, images, features and settings.
 
 > [!WARNING]
+> # Since this is a fork and I’m a BUM, this won’t really be actively maintained or updated with Redux. I will only update this project if it’s absolutely necessary to fix something game-breaking or to add a critically important feature.
 > # IMPORTANT NOTE FOR LINUX USERS:
->The fonts in this HUD are sized incorrectly on Linux, which breaks the outline effects. We've tried fixing this, but it appears to be a difficult task. To prevent further stalling, we've elected to release the HUD for Windows first, with the hope of fixing the Linux jank post-release. If anyone is interested in and capable of fixing the fonts for Linux, we will gladly accept any working pull requests, so long as they don't break things on Windows.
+> This project is aimed at fixing Linux-related errors for this HUD. It is a FORK of [https://github.com/SolarLightTF2/solarlighthud-redux](https://github.com/SolarLightTF2/solarlighthud-redux). If this version breaks, try your luck with the main repository.
 ># CUSTOMIZATION BREAKAGE
 >Some people are using mods that contain a valve.rc file. This conflicts with the valve.rc file used in REDUX to create a "redux_customization" folder in the game's cfg directory (not the HUD's directory, but in the game files). If your customizations fail to apply, make sure this folder is present first. More importantly, remove any other mods that may conflict with REDUX. Alternately, create the necessary folder and then add 'exec customization' to your autoexec.
 ># ASPECT RATIO

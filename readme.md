@@ -1,12 +1,14 @@
-# SolarLightHUD REDUX
+# SolarLightHUD RENUX
 <img width="2560" height="1280" alt="thumbnail" src="https://github.com/user-attachments/assets/fee65220-2855-477d-b247-6e95168fb799" />
 
-A heavily modified version of the old SolarLightHUD from 2018, with tons of new HUD elements, fonts, colors, images, features and settings.
+A modified version of SolarLightHUD-Redux with a linux port. :)
 
 > [!WARNING]
 > # Since this is a fork and I’m a BUM, this won’t really be actively maintained or updated with Redux. I will only update this project if it’s absolutely necessary to fix something game-breaking or to add a critically important feature.
 > # IMPORTANT NOTE FOR LINUX USERS:
 > This project is aimed at fixing Linux-related errors for this HUD. It is a FORK of [https://github.com/SolarLightTF2/solarlighthud-redux](https://github.com/SolarLightTF2/solarlighthud-redux). If this version breaks, try your luck with the main repository.
+> # DEAR WINDOWS USERS
+> This is still runnable on Windows, but why? There are no new features apart from the Linux fix, so just go to orginal at [repo](https://github.com/SolarLightTF2/solarlighthud-redux)
 ># CUSTOMIZATION BREAKAGE
 >Some people are using mods that contain a valve.rc file. This conflicts with the valve.rc file used in REDUX to create a "redux_customization" folder in the game's cfg directory (not the HUD's directory, but in the game files). If your customizations fail to apply, make sure this folder is present first. More importantly, remove any other mods that may conflict with REDUX. Alternately, create the necessary folder and then add 'exec customization' to your autoexec.
 ># ASPECT RATIO
@@ -20,7 +22,7 @@ Ultrawide users are encouraged to use the "Centered" or "Classic" HUD modes rath
 # THE ADD-ON PACK
 
 This HUD has DLC! The add-on pack enables some extra UI tweaks that technically aren't "HUD edits". Also, jam to 90+ tracks from a variety of SolarLight videos with the Music Pack.
-[Link](https://github.com/SolarLightTF2/solarlighthud-redux/blob/main/addonpack.md)
+[Link](https://github.com/kordrawr-maker/solarlighthud-Renux/blob/main/addonpack.md)
 
 # Join our Discord!
 

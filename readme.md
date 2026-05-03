@@ -1,5 +1,5 @@
 # SolarLightHUD RENUX
-<img width="2560" height="1280" alt="thumbnail" src="https://github.com/user-attachments/assets/fee65220-2855-477d-b247-6e95168fb799](https://github.com/kordrawr-maker/solarlighthud-Renux/blob/88c2b127cdd25e11f881a19e1bae322d268ebfea/media/header.png" />
+<img width="2560" height="1280" alt="thumbnail" src="media/header.png" />
 
 A modified version of SolarLightHUD-Redux with a linux port. :)
 

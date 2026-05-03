@@ -8,7 +8,7 @@ A heavily modified version of the old SolarLightHUD from 2018, with tons of new 
 > # IMPORTANT NOTE FOR LINUX USERS:
 > This project is aimed at fixing Linux-related errors for this HUD. It is a FORK of [https://github.com/SolarLightTF2/solarlighthud-redux](https://github.com/SolarLightTF2/solarlighthud-redux). If this version breaks, try your luck with the main repository.
 > # DEAR WINDOWS USERS
-> This is still runnable on Windows, but why? There are no new features apart from the Linux fix, so just go to [repo](https://github.com/SolarLightTF2/solarlighthud-redux)
+> This is still runnable on Windows, but why? There are no new features apart from the Linux fix, so just go to orginal at [repo](https://github.com/SolarLightTF2/solarlighthud-redux)
 ># CUSTOMIZATION BREAKAGE
 >Some people are using mods that contain a valve.rc file. This conflicts with the valve.rc file used in REDUX to create a "redux_customization" folder in the game's cfg directory (not the HUD's directory, but in the game files). If your customizations fail to apply, make sure this folder is present first. More importantly, remove any other mods that may conflict with REDUX. Alternately, create the necessary folder and then add 'exec customization' to your autoexec.
 ># ASPECT RATIO
